@@ -1,0 +1,21 @@
+{
+  "name": "musashop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "By Thaynison",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.12.0",
+    "fs": "^0.0.1-security",
+    "hastebin": "^0.2.1",
+    "hastebin-gen": "^2.0.5",
+    "mercadopago": "^1.5.14",
+    "moment": "^2.29.4",
+    "mongoose": "^6.3.3"
+  }
+}
