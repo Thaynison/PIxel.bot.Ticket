@@ -17,8 +17,8 @@ module.exports.exec = (client, message, args) => {
             .setThumbnail('https://media.discordapp.net/attachments/894619714435821578/1030243003383685140/logo-gif.gif')
             .setTitle(`CONNECT 🔰`)
             .setDescription(`
-                            Oiie pessoal, Pixelzin informa cidade **ONLINE**!\n
-                            IP: connect 200.9.155.180\n
+                            Oiie pessoal, Pixelzin informa! Cidade **ONLINE**!\n
+                            IP: connect cidadepixel.com.br\n
                             Promoção de Inauguração rolando\n🎉 25% Em toda nossa loja 
                                 
             `)

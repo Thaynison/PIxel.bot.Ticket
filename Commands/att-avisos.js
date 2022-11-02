@@ -18,10 +18,10 @@ module.exports.exec = (client, message, args) => {
             .setTitle(`ATUALIZAÇÃO 🎉`)
             .setDescription(`
                             Oiie pessoal, Pixelzin trazendo mais uma **ATUALIZAÇÃO** a vocês! SE LIGA!\n
-                            📌 Sistema de roubos com seleção de equipe;\n📌 Sistema de prisão e painel da policia;\n📌 Sistema de criação de personagem.
+                            📌 Sistema de empregos levais adicionados;\n📌 Sistema compra de empresas adicionado;\n📌 Sistema de tuning/nitro adicionado.
                                 
             `)
-            .addField(`Data:`, `23/10/2022`, false)
+            .addField(`Data:`, `02/11/2022`, false)
             .setFooter({text:`Cidade™ Pixel ©️ Todos os direitos reservados.`, iconURL: 'https://media.discordapp.net/attachments/894619714435821578/1030243003383685140/logo-gif.gif'})
     ]
 })    

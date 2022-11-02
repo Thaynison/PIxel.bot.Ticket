@@ -16,6 +16,7 @@
     "hastebin-gen": "^2.0.5",
     "mercadopago": "^1.5.14",
     "moment": "^2.29.4",
-    "mongoose": "^6.3.3"
+    "mongoose": "^6.3.3",
+    "slash-commands": "^1.5.0"
   }
 }
